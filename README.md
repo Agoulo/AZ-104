@@ -13,7 +13,7 @@ Ce dépôt GitHub présente mon parcours d’apprentissage et mes travaux pratiq
 * Surveiller et sauvegarder les ressources Azure.
 * Développer mes compétences avec Azure CLI et PowerShell.
 
-Travaux pratiques
+# Travaux pratiques
 
 Laboratoire	Sujet	État
 *  LAB 01 – Gestion des identités et des groupes avec Microsoft Entra ID (Réalise)
@@ -31,7 +31,7 @@ Laboratoire	Sujet	État
 *  LAB 13 – Mise en œuvre de la protection des données
 *  LAB 14 – Mise en œuvre de la supervision Azure
 
-Documentation
+# Documentation
 
 Chaque laboratoire présentera :
 
@@ -42,6 +42,6 @@ Chaque laboratoire présentera :
 * Les captures d’écran.
 * Les résultats obtenus et les difficultés rencontrées.
 
-Sécurité
+# Sécurité
 
 Aucun mot de passe, secret, jeton d’accès ou renseignement confidentiel ne sera publié dans ce dépôt.
