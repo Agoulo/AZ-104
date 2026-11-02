@@ -16,11 +16,20 @@ Ce dépôt GitHub présente mon parcours d’apprentissage et mes travaux pratiq
 Travaux pratiques
 
 Laboratoire	Sujet	État
-* LAB 01	Gestion des identités et des groupes avec Microsoft Entra ID	Réalisé
-* LAB 02	Gestion du stockage Azure	À venir
-* LAB 03	Gestion des machines virtuelles	À venir
-* LAB 04	Gestion des réseaux virtuels	À venir
-* LAB 05	Supervision et sauvegarde	À venir
+*  LAB 01 – Gestion des identités et des groupes avec Microsoft Entra ID (Réalise)
+*  LAB 02 – Gestion des abonnements et du contrôle d’accès basé sur les rôles (RBAC) avec Microsoft Entra
+*  LAB 03 – Gestion de la gouvernance avec Azure Policy
+*  LAB 04 – Gestion des ressources Azure à l’aide des modèles ARM
+*  LAB 05 – Mise en œuvre du réseau virtuel
+*  LAB 06 – Mise en œuvre de la connectivité intersites
+*  LAB 07 – Gestion du trafic réseau
+*  LAB 08 – Gestion du stockage Azure
+*  LAB 09 – Gestion des machines virtuelles
+*  LAB 10 – Mise en œuvre des applications web
+*  LAB 11 – Mise en œuvre des instances de conteneurs Azure
+*  LAB 12 – Mise en œuvre des applications Azure Container Apps
+*  LAB 13 – Mise en œuvre de la protection des données
+*  LAB 14 – Mise en œuvre de la supervision Azure
 
 Documentation
 
