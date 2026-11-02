@@ -16,11 +16,11 @@ Ce dépôt GitHub présente mon parcours d’apprentissage et mes travaux pratiq
 Travaux pratiques
 
 Laboratoire	Sujet	État
- LAB 01	Gestion des identités et des groupes avec Microsoft Entra ID	Réalisé
- LAB 02	Gestion du stockage Azure	À venir
- LAB 03	Gestion des machines virtuelles	À venir
- LAB 04	Gestion des réseaux virtuels	À venir
- LAB 05	Supervision et sauvegarde	À venir
+* LAB 01	Gestion des identités et des groupes avec Microsoft Entra ID	Réalisé
+* LAB 02	Gestion du stockage Azure	À venir
+* LAB 03	Gestion des machines virtuelles	À venir
+* LAB 04	Gestion des réseaux virtuels	À venir
+* LAB 05	Supervision et sauvegarde	À venir
 
 Documentation
 
